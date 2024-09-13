@@ -2,7 +2,7 @@
 <H5>Register No.: 212221240015 </H5>
 <H5> Experiment 3 </H5>
 <H5> DATE: 05.09.24</H5>
-<H1 align-item="center"> Implementation of Bayesian Networks </H1>
+<H1 align-item="center">Implementation of Approximate Inference in Bayesian Networks </H1>
 
 ## Aim: 
    To construct a python program to implement approximate inference using Gibbs Sampling.</br>
