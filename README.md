@@ -1,6 +1,6 @@
 <H5> Name : Harshavardhini M </H5>
 <H5>Register No.: 212221240015 </H5>
-<H5> Experiment 1 </H5>
+<H5> Experiment 3 </H5>
 <H5> DATE: 05.09.24</H5>
 <H1 align-item="center"> Implementation of Bayesian Networks </H1>
 
